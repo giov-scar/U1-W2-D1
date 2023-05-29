@@ -46,9 +46,9 @@ REGOLE
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
-//let myName='Scarantino'
+//myName='Scarantino'
 //const nome =  'Giovanni'
-//const nome = 'Gianni'
+//nome = 'Gianni'
 //console.log(nome);
 
 /* ESERCIZIO 6
