@@ -66,10 +66,8 @@ REGOLE
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
-let name1='john'
-let name2='John'
-const lower=name1+name2
-console.log(name1===name2);
-console.log(lower.toLowerCase());
-
-let nome=null
+//let name1='john'
+//let name2='John'
+//const lower=name1+name2
+//console.log(name1===name2);
+//console.log(lower.toLowerCase());
